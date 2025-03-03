@@ -1,3 +1,3 @@
-### Termostat
+### Thermostat
 
-prosty termostat wykonany przy użyciu arduino z funkcją mierzenia wilgotności powietrza
+simple thermostat/higrometer based on Arduino and DHT11 sensor.
